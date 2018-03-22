@@ -1,0 +1,12 @@
+.jumbotron {
+    background-size: 100%;
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-image: url('../images/newspaper.jpg');
+    background-repeat: no-repeat;
+}
+
+.title {
+    font: bold;
+}
